@@ -9,13 +9,13 @@
 
 - Acesso root: ``` sudo su ```
 - Iniciando o setoolkit: ``` setoolkit ```
-- Tipo de ataque: ``` Social-Engineering Attacks ```
-- Vetor de ataque: ``` Web Site Attack Vectors ```
-- Método de ataque: ```Credential Harvester Attack Method ```
-- Método de ataque: ``` Site Cloner ```
+- Tipo de ataque: ``` 1. Social-Engineering Attacks ```
+- Vetor de ataque: ``` 2. Web Site Attack Vectors ```
+- Método de ataque: ```3. Credential Harvester Attack Method ```
+- Método de ataque: ``` 1. Web Templates ```
 - Obtendo o endereço da máquina: ``` ifconfig ```
-- URL para clone: http://www.facebook.com
+- Web Templates para clone: ``` 3. Twitter ```
 
 ### Resutados
 
-![Alt text](./passwd.png "Optional title")
+![Alt text](./phishing.png "Optional title")
